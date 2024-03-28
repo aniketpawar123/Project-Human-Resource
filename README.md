@@ -18,7 +18,9 @@ Despite the concerted efforts of Human Resources, our telecom client struggles t
 -  In the report view, under the view tab, theme was selected.
 
 ### PowerBI Report :
-![HOme page](https://github.com/aniketpawar123/Certificate/assets/123149177/f5b2ed42-82d4-4ad5-bef6-fa99614bdc18)
+![Home](https://github.com/aniketpawar123/Project-Cricket-Analysis/assets/123149177/eb2ab5b4-d214-42bd-88bd-dd14bd100ba2)
+
 
 ### Summary :
-![Summary](https://github.com/aniketpawar123/Certificate/assets/123149177/8aa0992d-a982-44e2-b4a0-7c6fd2604542)
+![summary](https://github.com/aniketpawar123/Project-Cricket-Analysis/assets/123149177/31d37992-1ffe-43a5-bebf-f9c88d55b8c9)
+
